@@ -1,1 +1,3 @@
 # javaCalculator
+
+Using [swing](https://www.geeksforgeeks.org/java-swing-jpanel-with-examples/?ref=lbp) library to create simple calculator...
